@@ -1,6 +1,9 @@
 ﻿ISO Format
 Name = Nidhi
 Student id =0794234
+2024/05/23
+
+Part 1
 1325
 
 Add a hello wolrd
@@ -52,6 +55,7 @@ Open the Views/HelloWorld/Index.cshtml view file.
 1510
 
 Part 4
+2024/05/23
 
 Added a data model class
 Added NuGet packages
@@ -63,10 +67,11 @@ Started Initial migration
 now test!
 all good... running perfectly movie part
 
+
 2024/05/30
 PaRT 6
 1515
-run the exercise to check the edit validation..... C onfirmed
+edit a space in release date and checked validation..... Confirmed
 
 part 7
 1417
@@ -74,6 +79,25 @@ I did some chnages in the movies controller
 after that I add search string inorder to search movie list from the database that I created
 all the names that are require for created movie list such as rating , release date and many more
 but when i testing then i got error 
+ 
+2024/06/06
+1330
+i solved the prevoius error and modify the movies controller to list the name of the movies Add search string also did some chages that is related to id and index 
+
+Part 8
+1355
+Added  Rating 
+i did some Changes In Edit, Index. Add Rating in Index, Create, Delete, Index, ... running perfectly
+
+ Part 9
+ 1401
+  In Last step i Added Validation, Added StringLenght, RegularExpression, Range Edit coding for the delete. 
+  Finally .... it finished
+  runs everything perfectly
+
+  Total hours : 5.30 hrs
+
+  
 
 
 
